@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<staffs>
+  <staff>
+    <first_name>Lahiru</first_name>
+    <last_name>Perera</last_name>
+    <gender>M</gender>
+    <address>Colombo</address>
+    <phone>0231212123</phone>
+    <staff_type>Doctor</staff_type>
+    <salary>85000</salary>
+  </staff>
+  <staff>
+    <first_name>Nadeesha</first_name>
+    <last_name>Fernando</last_name>
+    <gender>F</gender>
+    <address>Colombo</address>
+    <phone>0332233123</phone>
+    <staff_type>Doctor</staff_type>
+    <salary>90000</salary>
+  </staff>
+</staffs>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<patients>
+  <patient>
+    <name>D. Kumara</name>
+    <age>45</age>
+    <address>Colombo</address>
+    <phone>0778888888</phone>
+    <blood_type>O+</blood_type>
+  </patient>
+  <patient>
+    <name>S. Perera</name>
+    <age>60</age>
+    <address>Colombo</address>
+    <phone>0999999999</phone>
+    <blood_type>A+</blood_type>
+  </patient>
+</patients>
